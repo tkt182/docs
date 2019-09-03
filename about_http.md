@@ -22,7 +22,7 @@
 ### World Wide Webの起源
 - Hypertextの構想は以前よりあったが、ティム・バーナーズ＝リーがHypertextとInternetを組み合わせるというブレイクスルーを起こした
 - この過程でURIという現代のWebの根幹を担う技術が開発された
-- ティム・バーナーズ＝リーが行った提案(Information Management: A Proposal)は1989/3/12に執筆されたため、2019年はWeb生誕30驟雨年
+- ティム・バーナーズ＝リーが行った提案(Information Management: A Proposal)は1989/3/12に執筆されたため、2019年はWeb生誕30周年
 - https://blog.cloudflare.com/happy-birthday-to-the-web/
 
 
